@@ -1,0 +1,6 @@
+[submodule "servo-motor-controller.wiki"]
+	path = servo-motor-controller.wiki
+	url = https://github.com/brick-bit/servo-motor-controller.wiki.git
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/brick-bit/servo-motor-controller.wiki.git
